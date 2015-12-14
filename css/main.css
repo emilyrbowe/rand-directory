@@ -7,11 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
+/* Navigation Bar */
 
-	@-ms-viewport {
-		width: device-width;
-	}
+
+
+/* Basic */
 
 	body {
 		background: #98a89e;
@@ -211,49 +211,33 @@
 		text-align: right;
 	}
 
-/* Section/Article */
+	/*----- Search -----*/
 
-	section.special, article.special {
-		text-align: center;
+	.search-form {
+	    float:right;
+	    display:inline-block;
 	}
 
-	header p {
-		color: rgba(255, 255, 255, 0.5);
-		position: relative;
-		top: -0.25em;
+	.search-form input {
+	    width:100px;
+	    height:30px;
+	    padding:0px 0px;
+	    float:left;
+	    border-radius:0px 0px 0px 0px;
+	    font-size:13px;
+			color: black;
 	}
 
-	header h3 + p {
-		font-size: 1.1em;
+	.search-form button {
+	    height:30px;
+	    padding:0px 7px;
+	    float:right;
+	    border-radius:0px 0px 0px 0px;
+	    background:#98a89e;
+	    font-size:13px;
+	    font-weight:600;
+	    color:#fff;
 	}
-
-	header h4 + p,
-	header h5 + p,
-	header h6 + p {
-		font-size: 0.9em;
-	}
-
-	header.major {
-		margin: 0 0 3.5em 0;
-	}
-
-		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
-			display: inline-block;
-			padding-bottom: 1em;
-			position: relative;
-		}
-
-			header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
-				content: '';
-				display: block;
-				height: 1px;
-			}
-
-		header.major p {
-			color: #fff;
-			top: 0;
-		}
-
 /* Box */
 
 	.box {
@@ -476,7 +460,7 @@
 		}
 
 			#banner .more:after {
-				background-image: url("images/arrow.svg");
+				background-image: url("../images/arrow.svg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
@@ -563,10 +547,10 @@
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/rand-small-colormask.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/rand-small-colormask.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/rand-small-colormask.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/rand-small-colormask.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/rand-small-colormask.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/rand-small-colormask.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/rand-small-colormask.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/rand-small-colormask.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
