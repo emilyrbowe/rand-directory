@@ -1,0 +1,516 @@
+{
+	"Companies": {
+		"B Multitenant": {
+			"Floor": "Basement",
+			"Suite": "",
+			"Group": "Weston Urban"
+		},
+		"1st Floor Multitenant": {
+			"Floor": "1st Floor",
+			"Suite": "",
+			"Group": "Weston Urban"
+		},
+		"2nd Floor Multitenant": {
+			"Floor": "2nd Floor",
+			"Suite": "",
+			"Group": "Weston Urban"
+		},
+		"3rd Floor Multitenant": {
+			"Floor": "3rd Floor",
+			"Suite": "",
+			"Group": "Weston Urban"
+		},
+		"4th Floor Multitenant": {
+			"Floor": "4th Floor",
+			"Suite": "",
+			"Group": "Weston Urban"
+		},
+		"Ben Tovar": {
+			"Floor": "7th Floor",
+			"Suite": "Comando Office",
+			"Group": "Geekdom"
+		},
+		"BoldBrush": {
+			"Floor": "7th Floor",
+			"Suite": "Asteroids Office",
+			"Group": "Geekdom"
+		},
+		"Brendan McHugh": {
+			"Floor": "8th Floor",
+			"Suite": "bmf Office",
+			"Group": "Geekdom"
+		},
+		"Cancer Insight": {
+			"Floor": "7th Floor",
+			"Suite": "Commando Office",
+			"Group": "Geekdom"
+		},
+		"David Blancas": {
+			"Floor": "7th Floor",
+			"Suite": "Tetris Office",
+			"Group": "Geekdom"
+		},
+		"Dick Flume": {
+			"Floor": "7th Floor",
+			"Suite": "Commando Office",
+			"Group": "Geekdom"
+		},
+		"EverMarket": {
+			"Floor": "8th Floor",
+			"Suite": "em Office",
+			"Group": "Geekdom"
+		},
+		"FlashScan 3D": {
+			"Floor": "6th Floor",
+			"Suite": "Phenom Office",
+			"Group": "Geekdom"
+		},
+		"Geekdom": {
+			"Floor": "7th Floor",
+			"Suite": "Geek Bar",
+			"Group": "Geekdom"
+		},
+		"Global Infotek": {
+			"Floor": "8th Floor",
+			"Suite": "torrent Office",
+			"Group": "Geekdom"
+		},
+		"Good Meeting App": {
+			"Floor": "8th Floor App",
+			"Suite": "swift Office",
+			"Group": "Geekdom"
+		},
+		"HelpSocial": {
+			"Floor": "7th Floor",
+			"Suite": "Joust Office",
+			"Group": "Geekdom"
+		},
+		"Hugh Miller": {
+			"Floor": "7th Floor",
+			"Suite": "Contra Office",
+			"Group": "Geekdom"
+		},
+		"Infocyte": {
+			"Floor": "7th Floor",
+			"Suite": "Pong Office",
+			"Suite": "Super Mario",
+			"Group": "Geekdom"
+		},
+		"James Brehm & Associates": {
+			"Floor": "8th Floor",
+			"Suite": "numbers Office",
+			"Group": "Geekdom"
+		},
+		"Key Ideas": {
+			"Floor": "8th Floor",
+			"Suite": "mov Office",
+			"Group": "Geekdom"
+		},
+		"Kodeal": {
+			"Floor": "8th Floor",
+			"Suite": "swift Office",
+			"Group": "Geekdom"
+		},
+		"Lightphile": {
+			"Floor": "6th Floor",
+			"Suite": "Phenom Office",
+			"Group": "Geekdom"
+		},
+		"MergeVR": {
+			"Floor": "6th Floor",
+			"Suite": "CORE Office",
+			"Group": "Geekdom"
+		},
+		"MWR Legal": {
+			"Floor": "7th Floor",
+			"Suite": "Frogger Office",
+			"Group": "Geekdom"
+		},
+		"Nebulab": {
+			"Floor": "8th Floor",
+			"Suite": "bam Office",
+			"Group": "Geekdom"
+		},
+		"ParLevel Systems": {
+			"Floor": "6th Floor",
+			"Suite": "Athlon Office",
+			"Group": "Geekdom"
+		},
+		"Postmates": {
+			"Floor": "7th Floor",
+			"Suite": "Contra Office",
+			"Group": "Geekdom"
+		},
+		"PowerFin Partners": {
+			"Floor": "8th Floor",
+			"Suite": "exe Office",
+			"Group": "Geekdom"
+		},
+		"Pressable": {
+			"Floor": "6th Floor",
+			"Suite": "Atom Office",
+			"Group": "Geekdom"
+		},
+		"Promoter io": {
+			"Floor": "6th Floor",
+			"Suite": "Sempron Office",
+			"Group": "Geekdom"
+		},
+		"Rackspace Open Cloud Academy": {
+			"Floor": "5th Floor",
+			"Suite": "501",
+			"Group": "Weston Urban"
+		},
+		"Rivard Report": {
+			"Floor": "6th Floor",
+			"Suite": "Turion Office",
+			"Group": "Geekdom"
+		},
+		"RXSoil": {
+			"Floor": "8th Floor",
+			"Suite": "rsp Office",
+			"Group": "Geekdom"
+		},
+		"SA Pets Alive": {
+			"Floor": "7th Floor",
+			"Suite": "Centipede Office",
+			"Group": "Geekdom"
+		},
+		"Sammis & Ochoa": {
+			"Floor": "6th Floor",
+			"Suite": "Celeron Office",
+			"Group": "Geekdom"
+		},
+    "SMSGate": {
+			"Floor": "7th Floor",
+			"Suite": "Metroid Office",
+			"Group": "Geekdom"
+		},
+		"StratMedical": {
+			"Floor": "7th Floor",
+			"Suite": "Mario Kart Office",
+			"Group": "Geekdom"
+		},
+		"Tech Bloc": {
+			"Floor": "7th Floor",
+			"Suite": "Contra Office",
+			"Group": "Geekdom"
+		},
+		"Techstars": {
+			"Floor": "8th Floor",
+			"Suite": "East Wing",
+			"Group": "Geekdom"
+		},
+		"Tesseract Labs": {
+			"Floor": "7th Floor",
+			"Suite": "Mortal Kombat Office",
+			"Group": "Geekdom"
+		},
+		"Tex Morgan": {
+			"Floor": "8th Floor",
+			"Suite": "bmf Office",
+			"Group": "Geekdom"
+		},
+		"Tidemark": {
+			"Floor": "7th Floor",
+			"Suite": "Quake Office",
+			"Suite": "Street Fighter Office",
+			"Group": "Geekdom"
+		},
+		"Transformative Tech": {
+			"Floor": "8th Floor",
+			"Suite": "swift Office",
+			"Group": "Geekdom"
+		},
+		"TwentySomething SA": {
+			"Floor": "8th Floor",
+			"Suite": "bmf Office",
+			"Group": "Geekdom"
+		},
+		"VirtKick": {
+			"Floor": "8th Floor",
+			"Suite": "qcow Office",
+			"Group": "Geekdom"
+		},
+		"Weston Urban": {
+			"Floor": "4th Floor",
+			"Suite": "401",
+			"Group": "Weston Urban"
+		},
+		"WP Engine": {
+			"Floor": "6th Floor",
+			"Suite": "Pentium Office",
+			"Group": "Geekdom"
+		},
+		"YupiCall": {
+			"Floor": "7th Floor",
+			"Suite": "Metroid Office",
+			"Group": "Geekdom"
+		}
+	},
+
+
+	"Floor": {
+		"1st Floor": {
+			"Suite 101": {
+				"Suite": "101",
+				"Type": "Weston Urban"
+			},
+			"Suite 102": {
+				"Suite": "102",
+				"Type": "Weston Urban"
+			}
+		},
+		"2nd Floor": {
+			"Suite 201": {
+				"Suite": "201",
+				"Type": "Weston Urban"
+			},
+			"Suite 202": {
+				"Suite": "202",
+				"Type": "Weston Urban"
+			},
+			"Suite 203": {
+				"Suite": "203",
+				"Type": "Weston Urban"
+			},
+			"Suite 204": {
+				"Suite": "204",
+				"Type": "Weston Urban"
+			}
+		},
+		"3rd Floor": {
+			"Suite 301": {
+				"Suite": "301",
+				"Tenant": "GF",
+				"Type": "Weston Urban"
+			},
+			"Suite 302": {
+				"Company": "JD",
+				"Suite": 302,
+				"Type": "Weston Urban"
+			}
+		},
+		"4th Floor": {
+			"Suite 401": {
+				"Suite": 401,
+				"Tenant": "Company X",
+				"Type": "Weston Urban"
+			},
+			"Suite 402": {
+				"Company": "Company A",
+				"Suite": 402,
+				"Type": "Weston Urban"
+			}
+		},
+		"5th Floor": {
+			"Suite 501": {
+				"Suite": 501,
+				"Tenant": "Rackspace Open Cloud Academy",
+				"Type": "Weston Urban"
+			}
+		},
+		"6th Floor": {
+			"Athlon": {
+				"Suite": "Athlon Office",
+				"Tenant": "ParLevel Systems",
+				"Type": "Geekdom"
+			},
+			"Atom": {
+				"Suite": "Atom Office",
+				"Tenant": "Pressable",
+				"Type": "Geekdom"
+			},
+			"Celeron": {
+				"Suite": "Celeron Office",
+				"Tenant": "Sammis & Ochoa",
+				"Type": "Geekdom"
+			},
+			"CORE": {
+				"Suite": "CORE Office",
+				"Tenant": "MergeVR",
+				"Type": "Geekdom"
+			},
+			"Pentium": {
+				"Suite": "Pentium Office",
+				"Tenant": "WP Engine",
+				"Type": "Geekdom"
+			},
+			"Phenom": {
+				"Suite": "Phenom Office",
+				"Tenant": "FlashScan 3D",
+				"Tenant": "Lightphile",
+				"Type": "Geekdom"
+			},
+			"Sempron": {
+				"Suite": "Sempron Office",
+				"Tenant": "Promoter io",
+				"Type": "Geekdom"
+			},
+			"Turion": {
+				"Suite": "Turion Office",
+				"Tenant": "Rivard Report",
+				"Type": ""
+			}
+		},
+		"7th Floor": {
+			"Asteroids": {
+				"Suite": "Asteroids Office",
+				"Tenant": "BoldBrush",
+				"Type": "Geekdom"
+			},
+			"Centipede": {
+				"Suite": "Centipede Office",
+				"Tenant": "SA Pets Alive",
+				"Type": "Geekdom"
+			},
+			"Commando": {
+				"Suite": "Commando Office",
+				"Tenant": "Ben Tovar",
+				"Tenant": "Cancer Insight",
+				"Tenant": "Dick Flume",
+				"Type": "Geekdom"
+			},
+			"Contra": {
+				"Suite": "Contra Office",
+				"Tenant": "Hugh Miller",
+				"Tenant": "Postmates",
+				"Tenant": "Tech Bloc",
+				"Type": "Geekdom"
+			},
+			"Frogger": {
+				"Suite": "Frogger",
+				"Tenant": "MWR Legal",
+				"Type": "Geekdom"
+			},
+			"Geek Bar": {
+				"Suite": "Geek Bar",
+				"Tenant": "Geekdom",
+				"Type": "Geekdom"
+			},
+			"Joust": {
+				"Suite": "Joust Office",
+				"Tenant": "HelpSocial",
+				"Type": "Geekdom"
+			},
+			"Mario Kart": {
+				"Suite": "Mario Kart Office",
+				"Tenant": "StratMedical",
+				"Type": "Geekdom"
+			},
+			"Metroid": {
+				"Suite": "Metroid Office",
+				"Tenant" : "SMSGate",
+        "Tenant" : "YupiCall",
+				"Type": "Geekdom"
+			},
+			"Mortal Kombat": {
+				"Suite": "Mortal Kombat Office",
+				"Tenant": "Tesseract Labs",
+				"Type": "Geekdom"
+			},
+			"Pong": {
+				"Suite": "Pong Office",
+				"Tenant": "Infocyte",
+				"Type": "Geekdom"
+			},
+			"Quake": {
+				"Suite": "Quake Office",
+				"Tenant": "Tidemark",
+				"Type": "Geekdom"
+			},
+			"Street Fighter": {
+				"Suite": "Street Fighter Office",
+				"Tenant": "Tidemark",
+				"Type": "Geekdom"
+			},
+			"Super Mario": {
+				"Suite": "Super Mario Office",
+				"Tenant": "Infocyte",
+				"Type": "Geekdom"
+			},
+			"Tetris": {
+				"Suite": "Tetris Office",
+				"Tenant": "David Blancas",
+				"Type": "Geekdom"
+			}
+		},
+		"8th Floor": {
+			"bam": {
+				"Suite": "bam Office",
+				"Tenant": "Nebulab",
+				"Type": "Geekdom"
+			},
+			"bmf": {
+				"Suite": "bmf Office",
+				"Tenant": "Brendan McHugh",
+				"Tenant": "Tex Morgan",
+				"Tenant": "TwentySomething SA",
+				"Type": "Geekdom"
+			},
+			"em": {
+				"Suite": "em Office",
+				"Tenant": "EverMarket",
+				"Type": "Geekdom"
+			},
+			"exe": {
+				"Suite": "exe Office",
+				"Tenant": "PowerFin Partners",
+				"Type": "Geekdom"
+			},
+			"mov": {
+				"Suite": "mov Office",
+				"Tenant": "Key Ideas",
+				"Type": "Geekdom"
+			},
+			"numbers": {
+				"Suite": "numbers Office",
+				"Tenant": "James Brehm & Associates",
+				"Type": "Geekdom"
+			},
+			"qcow": {
+				"Suite": "qcow Office",
+				"Tenant": "VirtKick",
+				"Type": "Geekdom"
+			},
+			"rsp": {
+				"Suite": "rsp Office",
+				"Tenant": "RXSoil",
+				"Type": "Geekdom"
+			},
+			"swift": {
+				"Suite": "swift Office",
+				"Tenant": "Good Meeting App",
+				"Tenant": "Kodeal",
+				"Tenant": "Transformative Tech",
+				"Type": "Geekdom"
+			},
+			"torrent": {
+				"Suite": "torrent Office",
+				"Tenant": "Global Infotek",
+				"Type": "Geekdom"
+			},
+			"East Wing": {
+				"Suite": "East Wing",
+				"Tenant": "Techstars",
+				"Type": "Geekdom"
+			}
+		},
+		"Geekdom Event Centre": {
+			"Suite": "131 Soledad",
+			"Tenant": "Geekdom Event Centre",
+			"Type": "Geekdom"
+		}
+	},
+
+
+	"users": {
+		"62b53188-b5ca-4a5b-8e5a-63079776125b": {
+      "Name" : "Emily Bowe",
+      "Type": {
+				"Geekdom": "true",
+				"Weston Urban": "true"
+      }
+    }
+	}
+}
